@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\.git"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\config"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\controllers"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\node_modules"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\public"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\routes"
+		},
+		{
+			"path": "..\\Webapp Assignments\\Assignment1\\Assignment1\\views"
+		}
+	]
+}
